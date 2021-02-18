@@ -1,0 +1,18 @@
+- yarn create next-app setup-next
+- yarn add typescript @types/react @types/node -D
+- yarn add eslint -D
+- yarn eslint --init
+    - style
+    - esm
+    - react
+    - yes
+    - browse, node
+    - guide
+    - standard
+    - JSON
+    - yes
+- yarn add prettier eslint-plugin-prettier eslint-config-prettier -D
+- yarn add styled-components
+- yarn add @types/styled-components -D
+- yarn add next-images // for edit images and otmize
+- yarn add babel-plugin-inline-react-svg -D // for otmize svg
